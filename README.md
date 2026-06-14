@@ -3,7 +3,7 @@ Big data analysis and modeling project developed during the 33rd POSCO AI &amp; 
 
 ### 📊 Project Presentation
 
-[![발표 자료 표지](Secondary battery_cover.png)](Secondary battery_presentation.pdf)
+[![발표 자료 표지](SecondaryBattery_cover.png)](Secondary battery_presentation.pdf)
 > 💡 **위 이미지를 클릭**하시면 전체 PDF 발표 자료를 확인하실 수 있습니다.
 
 
